@@ -4,8 +4,7 @@ golang_net_http_module
 Projects
 
 
-go_basics/012_switch_statement/
-go_basics/013_arrays/
+
 go_basics/014_slice_literals/
 go_basics/015_len_and_capacity_of_slice/
 go_basics/016_for_range_over_slice/
