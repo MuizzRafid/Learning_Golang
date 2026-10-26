@@ -5,11 +5,7 @@ Projects
 
 
 
-go_basics/014_slice_literals/
-go_basics/015_len_and_capacity_of_slice/
-go_basics/016_for_range_over_slice/
-go_basics/017_map/
-go_basics/018_read_value_ok/
+
 go_basics/019_functions/
 go_basics/020_named_return_values/
 go_basics/021_variadic_functions/
