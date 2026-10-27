@@ -5,11 +5,6 @@ Projects
 
 
 
-
-go_basics/023_defer_basics/
-go_basics/024_pointers/
-go_basics/025_structs/
-go_basics/026_methods_val_receiver/
 go_basics/027_methods_pointer_receiver/
 go_basics/028_interface/
 go_basics/029_closures/
