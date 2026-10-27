@@ -6,10 +6,6 @@ Projects
 
 
 
-go_basics/019_functions/
-go_basics/020_named_return_values/
-go_basics/021_variadic_functions/
-go_basics/022_error_return_pattern/
 go_basics/023_defer_basics/
 go_basics/024_pointers/
 go_basics/025_structs/
