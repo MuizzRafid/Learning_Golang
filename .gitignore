@@ -5,10 +5,7 @@ Projects
 
 
 
-go_basics/027_methods_pointer_receiver/
-go_basics/028_interface/
-go_basics/029_closures/
-go_basics/030_goroutines/
+
 go_basics/031_enums/
 go_basics/032_generics/
 go_basics/033_Wait_Groups/
