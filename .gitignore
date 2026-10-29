@@ -7,8 +7,7 @@ Projects
 
 
 
-go_basics/033_Wait_Groups/
-go_basics/034_Channels/
+
 go_basics/035_Buffered_Channel/
 go_basics/036_MultipleChannel_listen/
 go_basics/037_Mutex/
