@@ -6,8 +6,7 @@ Projects
 
 
 
-go_basics/031_enums/
-go_basics/032_generics/
+
 go_basics/033_Wait_Groups/
 go_basics/034_Channels/
 go_basics/035_Buffered_Channel/
