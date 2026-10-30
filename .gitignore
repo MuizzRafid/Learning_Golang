@@ -8,8 +8,6 @@ Projects
 
 
 
-go_basics/035_Buffered_Channel/
-go_basics/036_MultipleChannel_listen/
 go_basics/037_Mutex/
 go_basics/038_File/
 go_basics/039_Error_Allabout/
