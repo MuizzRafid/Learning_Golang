@@ -1,6 +1,17 @@
 
 
-golang_net_http_module
+
+golang_net_http_module/02_basic_multiple_routes
+golang_net_http_module/03_json_encoder_encode_details
+golang_net_http_module/04_json_decoder_decode_details
+golang_net_http_module/05_http_get
+golang_net_http_module/06_reading_response_body
+golang_net_http_module/07_json_unmarshal_into_struct
+golang_net_http_module/08_external_api
+golang_net_http_module/practice
+golang_net_http_module/explain.txt
+golang_net_http_module/go.mod
+
 Projects
 
 Golang Notes
